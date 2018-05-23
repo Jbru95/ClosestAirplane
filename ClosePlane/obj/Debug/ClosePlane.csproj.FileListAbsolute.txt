@@ -1,0 +1,10 @@
+C:\Users\Jayson\Desktop\CSE\c#projects\ClosePlane\ClosePlane\ClosePlane\bin\Debug\ClosePlane.exe.config
+C:\Users\Jayson\Desktop\CSE\c#projects\ClosePlane\ClosePlane\ClosePlane\bin\Debug\ClosePlane.exe
+C:\Users\Jayson\Desktop\CSE\c#projects\ClosePlane\ClosePlane\ClosePlane\bin\Debug\ClosePlane.pdb
+C:\Users\Jayson\Desktop\CSE\c#projects\ClosePlane\ClosePlane\ClosePlane\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Jayson\Desktop\CSE\c#projects\ClosePlane\ClosePlane\ClosePlane\bin\Debug\System.Net.Http.Formatting.dll
+C:\Users\Jayson\Desktop\CSE\c#projects\ClosePlane\ClosePlane\ClosePlane\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Jayson\Desktop\CSE\c#projects\ClosePlane\ClosePlane\ClosePlane\bin\Debug\System.Net.Http.Formatting.xml
+C:\Users\Jayson\Desktop\CSE\c#projects\ClosePlane\ClosePlane\ClosePlane\obj\Debug\ClosePlane.csprojResolveAssemblyReference.cache
+C:\Users\Jayson\Desktop\CSE\c#projects\ClosePlane\ClosePlane\ClosePlane\obj\Debug\ClosePlane.exe
+C:\Users\Jayson\Desktop\CSE\c#projects\ClosePlane\ClosePlane\ClosePlane\obj\Debug\ClosePlane.pdb
